@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "zapeture",
+    "api_key": "226378665985721",
+    "api_secret": "dR-kWBfwM1X_gog0BQdFyctUCiw"
+  }
+}
